@@ -10,7 +10,7 @@ OBS Browser source also has native opacity channel, which allows transparency wh
 
 [TUNIC LiveSplit One AutoSplitter](https://github.com/jeanwll/TUNIC-LiveSplitOne-AutoSplitter) was made alongside this project as an example to overcome absence of global hotkeys and AutoSplitting.
 
-This layout is a personnal proposition, along with some customisable CSS properties.
+This layout is a personnal proposition, along with some customizable CSS properties.
 
 ![Preview](/preview.gif)
 
