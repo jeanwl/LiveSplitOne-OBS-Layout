@@ -34,7 +34,7 @@ Sum of Best, PB and WR appear for 20 seconds in fading cycle below timer.
     - Import your splits, click save
     - Update WR and PB values in Layout → Edit
 
-3. *(Optionnal)* Add the blurry timer background
+3. *(Optionnal)* Add the blurry background
     - Install OBS plugin [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/)
     - Make sure your game and browser source have the same size
     - Add "Blur" filter on game source
