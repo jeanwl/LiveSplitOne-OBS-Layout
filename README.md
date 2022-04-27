@@ -19,7 +19,7 @@ Splits appear progressively with an animation;
 - animations highlight reaching new split
 - progressive apparition saves space for game visuals
 
-Sum of Best, PB and WR appear for 20 seconds in fading cycle below timer.
+Sum of Best, PB and WR appear in fading cycle below timer.
 
 # Installation
 
