@@ -8,7 +8,7 @@ LiveSplit One being a web page allows overwriting CSS, thus much more customisat
 
 OBS Browser source also has native opacity channel, which allows transparency while keeping font sharp and consistent (unlike Chroma key).
 
-[TUNIC LiveSplit One AutoSplitter](https://github.com/jeanwll/TUNIC-LiveSplitOne-AutoSplitter) was made alongside this project as an exemple to overcome absence of global hotkeys and AutoSplitting.
+[TUNIC LiveSplit One AutoSplitter](https://github.com/jeanwll/TUNIC-LiveSplitOne-AutoSplitter) was made alongside this project as an example to overcome absence of global hotkeys and AutoSplitting.
 
 This layout is a personnal proposition, along with some customisable CSS properties.
 
@@ -26,7 +26,7 @@ Sum of Best, PB and WR appear for 20 seconds in fading cycle below timer.
 1. Add browser source
     - Set URL https://one.livesplit.org/
     - Set size to full screen (ex: 1920x1080)
-    - Apply Custom CSS `@import url('https://jeanwll.github.io/TUNIC.LiveSplitOne.AutoSplitter/style.css');`
+    - Apply Custom CSS `@import url('https://jeanwll.github.io/LiveSplitOne-OBS-Layout/style.css');`
 
 2. Interact source ***(OBS browser import/input window might pop behind OBS application)***
     - Right-click/Left-click to toggle menu
@@ -35,7 +35,7 @@ Sum of Best, PB and WR appear for 20 seconds in fading cycle below timer.
     - Update WR and PB values in Layout → Edit
 
 3. *(Optionnal)* Add the blurry timer background
-    - Install OBS plugin StreamFX https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/
+    - Install OBS plugin [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/)
     - Make sure your game and browser source have the same size
     - Add "Blur" filter on game source
     - Check "Apply a mask", Mask Type: "Source", Source Mask: "your browser source"
@@ -64,7 +64,7 @@ Exporting splits won't work directly from OBS browser source; if you want to exp
 `%USERPROFILE%\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_one.livesplit.org_0.indexeddb.leveldb`
 3. Export splits by browsing https://one.livesplit.org/ on chrome
 
-You could keep a clean record of your game by using **OBS plugin Source Record**.
+You could keep a clean record of your game by using OBS plugin [Source Record](https://obsproject.com/forum/resources/source-record.1285/).
 You can put the filter on a **Source Mirror** of your game if you use the blurry background.
 
 If you wish to make your own Custom CSS, I recommend enabling *remote-debugging-port*.
