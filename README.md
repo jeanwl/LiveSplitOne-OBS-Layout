@@ -12,7 +12,7 @@ OBS Browser source also has native opacity channel, which allows transparency wh
 
 This layout is a personnal proposition, along with some customisable CSS properties.
 
-Image
+![Preview](/preview.gif)
 
 Splits appear progressively with an animation;
 - current split is easy to compare with current time
