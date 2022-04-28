@@ -4,7 +4,7 @@ Customized LiveSplit One setup for OBS
 
 # Description
 
-LiveSplit One being a web page allows overwriting CSS, thus much more customisation possibilities than original LiveSplit.
+LiveSplit One being a web page allows overwriting CSS, thus much more customization possibilities than original LiveSplit.
 
 OBS Browser source also has native opacity channel, which allows transparency while keeping font sharp and consistent (unlike Chroma key).
 
