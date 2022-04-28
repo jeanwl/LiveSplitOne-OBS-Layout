@@ -1,6 +1,6 @@
 # LiveSplit One OBS Layout
 
-Customised LiveSplit One setup for OBS
+Customized LiveSplit One setup for OBS
 
 # Description
 
