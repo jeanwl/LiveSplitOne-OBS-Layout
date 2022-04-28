@@ -67,4 +67,4 @@ Exporting splits won't work directly from OBS browser source; if you want to exp
 You could keep a clean record of your game by using OBS plugin [Source Record](https://obsproject.com/forum/resources/source-record.1285/).
 You can put the filter on a **Source Mirror** of your game if you use the blurry background.
 
-If you wish to make your own Custom CSS, I recommend enabling *remote-debugging-port*.
+If you wish to make your own Custom CSS, I recommend enabling *OBS remote-debugging-port*.
