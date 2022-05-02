@@ -8,7 +8,7 @@ LiveSplit One being a web page allows overwriting CSS, thus much more customizat
 
 OBS Browser source also has native opacity channel, which allows transparency while keeping font sharp and consistent (unlike Chroma key).
 
-[TUNIC LiveSplit One AutoSplitter](https://github.com/jeanwll/TUNIC-LiveSplitOne-AutoSplitter) was made alongside this project as an example to overcome absence of global hotkeys and AutoSplitting.
+[LiveSplit One Global Hotkeys](https://github.com/jeanwll/LiveSplitOne-GlobalHotkeys) and [TUNIC LiveSplit One AutoSplitter](https://github.com/jeanwll/TUNIC-LiveSplitOne-AutoSplitter) were made alongside this project as examples to overcome absence of global hotkeys and AutoSplitting.
 
 This layout is a personnal proposition, along with some customizable CSS properties.
 
