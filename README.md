@@ -34,14 +34,18 @@ Sum of Best, PB and WR appear in fading cycle below timer.
     - Import your splits, click save
     - Update WR and PB values in Layout → Edit
 
-3. ***(Optionnal)*** Add the blurry background
+3. ***(Optionnal)*** Start LiveSplitOne-GlobalHotkeys.exe
+    - Follow program to remap keys
+    - Interact OBS Browser source and Connect to server 
+
+4. ***(Optionnal)*** Add the blurry background
     - Install OBS plugin [StreamFX](https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/)
     - Make sure your game and browser source have the same size
     - Add "Blur" filter on game source
     - Check "Apply a mask", Mask Type: "Source", Source Mask: "your browser source"
     - Set Mask Alpha Filter to 5, and Size to 30
  
- 4. ***(Optionnal)*** Set custom CSS properties below the `@import`, those are default values:
+ 5. ***(Optionnal)*** Set custom CSS properties below the `@import`, those are default values:
  ```css
 .layout {
   --bottom: 290;
